@@ -1,0 +1,29 @@
+﻿# Built outputs
+*.apk
+*.aab
+*.dex
+*.class
+
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+crashlytics.properties
+google-services.json
+
+# API Keys (never commit)
+**/api_keys.properties
+**/secrets.properties
