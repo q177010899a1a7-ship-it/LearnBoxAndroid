@@ -1,4 +1,6 @@
-# LearnBox - AI Smart Learning Notes
+﻿# LearnBox - AI Smart Learning Notes
+
+> **[中文说明 / Chinese README](README_zh.md)**
 
 <p align="center">
   <img src="screenshots/01_setup_screen.png" width="250" />
@@ -137,3 +139,4 @@ MIT License
 - [SiliconFlow](https://cloud.siliconflow.cn/i/cghBZBng) for providing free AI models
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) for the modern UI toolkit
 - [Room](https://developer.android.com/training/data-storage/room) for local database
+
